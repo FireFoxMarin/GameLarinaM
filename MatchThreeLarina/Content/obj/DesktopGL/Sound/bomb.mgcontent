@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/FireFoxMarin/GameForestFireFoxMarin/GameLarinaM/MatchThreeLarina/Content/Sound/bomb.wav</SourceFile>
+  <SourceTime>2021-01-20T23:20:48+10:00</SourceTime>
+  <DestFile>C:/Users/FireFoxMarin/GameForestFireFoxMarin/GameLarinaM/MatchThreeLarina/Content/bin/DesktopGL/Sound/bomb.xnb</DestFile>
+  <DestTime>2021-02-01T16:11:32.4571622+10:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-12-09T02:35:54+10:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-12-09T02:35:54+10:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

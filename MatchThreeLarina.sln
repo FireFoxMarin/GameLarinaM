@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1300
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchThreeLarina", "MatchThreeLarina\MatchThreeLarina.csproj", "{06739D98-DD69-458C-8E57-4D0D91DF346B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06739D98-DD69-458C-8E57-4D0D91DF346B}.Debug|x86.ActiveCfg = Debug|x86
+		{06739D98-DD69-458C-8E57-4D0D91DF346B}.Debug|x86.Build.0 = Debug|x86
+		{06739D98-DD69-458C-8E57-4D0D91DF346B}.Release|x86.ActiveCfg = Release|x86
+		{06739D98-DD69-458C-8E57-4D0D91DF346B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9DCA5B0-E6C5-48C5-B4B8-E7EE27C86C56}
+	EndGlobalSection
+EndGlobal

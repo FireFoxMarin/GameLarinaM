@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/FireFoxMarin/GameForestFireFoxMarin/GameLarinaM/MatchThreeLarina/Content/Fonts/Font.spritefont</File>
+    <File>C:/Users/FireFoxMarin/GameForestFireFoxMarin/GameLarinaM/MatchThreeLarina/Content/Sound/bomb.wav</File>
+    <File>C:/Users/FireFoxMarin/GameForestFireFoxMarin/GameLarinaM/MatchThreeLarina/Content/Sound/bonusline.wav</File>
+    <File>C:/Users/FireFoxMarin/GameForestFireFoxMarin/GameLarinaM/MatchThreeLarina/Content/Sound/click.wav</File>
+    <File>C:/Users/FireFoxMarin/GameForestFireFoxMarin/GameLarinaM/MatchThreeLarina/Content/Sound/marimba.wav</File>
+    <File>C:/Users/FireFoxMarin/GameForestFireFoxMarin/GameLarinaM/MatchThreeLarina/Content/Sound/match.wav</File>
+    <File>C:/Users/FireFoxMarin/GameForestFireFoxMarin/GameLarinaM/MatchThreeLarina/Content/Sound/tick.wav</File>
+    <File>C:/Users/FireFoxMarin/GameForestFireFoxMarin/GameLarinaM/MatchThreeLarina/Content/Sprites/background.jpg</File>
+    <File>C:/Users/FireFoxMarin/GameForestFireFoxMarin/GameLarinaM/MatchThreeLarina/Content/Sprites/BlankCell.png</File>
+    <File>C:/Users/FireFoxMarin/GameForestFireFoxMarin/GameLarinaM/MatchThreeLarina/Content/Sprites/CellBackground.png</File>
+    <File>C:/Users/FireFoxMarin/GameForestFireFoxMarin/GameLarinaM/MatchThreeLarina/Content/Sprites/Destroyer.png</File>
+    <File>C:/Users/FireFoxMarin/GameForestFireFoxMarin/GameLarinaM/MatchThreeLarina/Content/Sprites/Elements/Blue.png</File>
+    <File>C:/Users/FireFoxMarin/GameForestFireFoxMarin/GameLarinaM/MatchThreeLarina/Content/Sprites/Elements/BlueBomb.png</File>
+    <File>C:/Users/FireFoxMarin/GameForestFireFoxMarin/GameLarinaM/MatchThreeLarina/Content/Sprites/Elements/BlueLineH.png</File>
+    <File>C:/Users/FireFoxMarin/GameForestFireFoxMarin/GameLarinaM/MatchThreeLarina/Content/Sprites/Elements/BlueLineV.png</File>
+    <File>C:/Users/FireFoxMarin/GameForestFireFoxMarin/GameLarinaM/MatchThreeLarina/Content/Sprites/Elements/Green.png</File>
+    <File>C:/Users/FireFoxMarin/GameForestFireFoxMarin/GameLarinaM/MatchThreeLarina/Content/Sprites/Elements/GreenBomb.png</File>
+    <File>C:/Users/FireFoxMarin/GameForestFireFoxMarin/GameLarinaM/MatchThreeLarina/Content/Sprites/Elements/GreenLineH.png</File>
+    <File>C:/Users/FireFoxMarin/GameForestFireFoxMarin/GameLarinaM/MatchThreeLarina/Content/Sprites/Elements/GreenLineV.png</File>
+    <File>C:/Users/FireFoxMarin/GameForestFireFoxMarin/GameLarinaM/MatchThreeLarina/Content/Sprites/Elements/Orange.png</File>
+    <File>C:/Users/FireFoxMarin/GameForestFireFoxMarin/GameLarinaM/MatchThreeLarina/Content/Sprites/Elements/OrangeBomb.png</File>
+    <File>C:/Users/FireFoxMarin/GameForestFireFoxMarin/GameLarinaM/MatchThreeLarina/Content/Sprites/Elements/OrangeLineH.png</File>
+    <File>C:/Users/FireFoxMarin/GameForestFireFoxMarin/GameLarinaM/MatchThreeLarina/Content/Sprites/Elements/OrangeLineV.png</File>
+    <File>C:/Users/FireFoxMarin/GameForestFireFoxMarin/GameLarinaM/MatchThreeLarina/Content/Sprites/Elements/Pink.png</File>
+    <File>C:/Users/FireFoxMarin/GameForestFireFoxMarin/GameLarinaM/MatchThreeLarina/Content/Sprites/Elements/PinkBomb.png</File>
+    <File>C:/Users/FireFoxMarin/GameForestFireFoxMarin/GameLarinaM/MatchThreeLarina/Content/Sprites/Elements/PinkLineH.png</File>
+    <File>C:/Users/FireFoxMarin/GameForestFireFoxMarin/GameLarinaM/MatchThreeLarina/Content/Sprites/Elements/PinkLineV.png</File>
+    <File>C:/Users/FireFoxMarin/GameForestFireFoxMarin/GameLarinaM/MatchThreeLarina/Content/Sprites/Elements/Red.png</File>
+    <File>C:/Users/FireFoxMarin/GameForestFireFoxMarin/GameLarinaM/MatchThreeLarina/Content/Sprites/Elements/RedBomb.png</File>
+    <File>C:/Users/FireFoxMarin/GameForestFireFoxMarin/GameLarinaM/MatchThreeLarina/Content/Sprites/Elements/RedLineH.png</File>
+    <File>C:/Users/FireFoxMarin/GameForestFireFoxMarin/GameLarinaM/MatchThreeLarina/Content/Sprites/Elements/RedLineV.png</File>
+    <File>C:/Users/FireFoxMarin/GameForestFireFoxMarin/GameLarinaM/MatchThreeLarina/Content/Sprites/FieldBackground.png</File>
+    <File>C:/Users/FireFoxMarin/GameForestFireFoxMarin/GameLarinaM/MatchThreeLarina/Content/Sprites/Gameover.png</File>
+    <File>C:/Users/FireFoxMarin/GameForestFireFoxMarin/GameLarinaM/MatchThreeLarina/Content/Sprites/MenuButton.png</File>
+    <File>C:/Users/FireFoxMarin/GameForestFireFoxMarin/GameLarinaM/MatchThreeLarina/Content/Sprites/PlayButton.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
